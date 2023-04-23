@@ -1,1 +1,1 @@
-# my-own-property-inspection
+# new-android-app-template

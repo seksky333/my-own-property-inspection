@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Own Property Inspection</string>
+    <string name="main">Main</string>
+    <string name="dev">Dev</string>
+</resources>
