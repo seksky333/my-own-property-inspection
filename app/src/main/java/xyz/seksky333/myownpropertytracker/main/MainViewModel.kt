@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection.main
+package xyz.seksky333.myownpropertytracker.main
 
 import androidx.lifecycle.ViewModel
 

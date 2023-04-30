@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection
+package xyz.seksky333.myownpropertytracker
 
 import org.junit.Test
 

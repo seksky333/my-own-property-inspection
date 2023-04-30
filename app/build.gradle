@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'xyz.seksky333.myownpropertyinspection'
+    namespace 'xyz.seksky333.myownpropertytracker'
     compileSdk 33
 
     defaultConfig {
-        applicationId "xyz.seksky333.myownpropertyinspection"
+        applicationId "xyz.seksky333.myownpropertytracker"
         minSdk 26
         targetSdk 33
         versionCode 1
@@ -47,7 +47,7 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.core:core-ktx:+'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
     def nav_version = "2.5.3"
     def m3_version = "1.0.1"
     def compose_version = "1.4.1"

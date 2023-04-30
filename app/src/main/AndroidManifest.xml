@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:name="xyz.seksky333.myownpropertyinspection.main.MainApplication"
+        android:name="xyz.seksky333.myownpropertytracker.main.MainApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -11,13 +11,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MyOwnPropertyInspectionTemplate"
+        android:theme="@style/Theme.MyOwnPropertyTrackerTemplate"
         tools:targetApi="31">
         <activity
-            android:name="xyz.seksky333.myownpropertyinspection.main.MainActivity"
+            android:name="xyz.seksky333.myownpropertytracker.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyOwnPropertyInspectionTemplate">
+            android:theme="@style/Theme.MyOwnPropertyTrackerTemplate">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

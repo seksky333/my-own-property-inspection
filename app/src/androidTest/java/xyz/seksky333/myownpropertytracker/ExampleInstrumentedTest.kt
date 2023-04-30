@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection
+package xyz.seksky333.myownpropertytracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

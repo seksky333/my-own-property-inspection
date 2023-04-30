@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection.ui.theme
+package xyz.seksky333.myownpropertytracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

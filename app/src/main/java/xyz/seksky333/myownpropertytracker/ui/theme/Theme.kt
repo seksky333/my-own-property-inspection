@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection.ui.theme
+package xyz.seksky333.myownpropertytracker.ui.theme
 
 import android.app.Activity
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -48,7 +48,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MyOwnPropertyInspectionTheme(
+fun AppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

@@ -1,4 +1,4 @@
-package xyz.seksky333.myownpropertyinspection.navigation
+package xyz.seksky333.myownpropertytracker.navigation
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.layout.Column
@@ -22,15 +22,15 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.NavDestination.Companion.hierarchy
-import xyz.seksky333.myownpropertyinspection.ui.theme.primary
+import xyz.seksky333.myownpropertytracker.ui.theme.primary
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import xyz.seksky333.`,myownpropertyinspection`.R
-import xyz.seksky333.myownpropertyinspection.main.MainViewModel
+import xyz.seksky333.myownpropertytracker.R
+import xyz.seksky333.myownpropertytracker.main.MainViewModel
 
 class AppNav {
 
